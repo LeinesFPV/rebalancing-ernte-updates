@@ -1,12 +1,12 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "file": "Ernte-1.4.apk",
-  "sha256": "fbcf0153b98264d8a7a3748ff1f5a7b08a2d136273c76824cde7fa6716b4c824",
+  "versionCode": 6,
+  "versionName": "1.5",
+  "file": "Ernte-1.5.apk",
+  "sha256": "fc692fb00cf16ab2fc7a99e2410e82decee2f68257b93fc81ba616fad8e6fb44",
   "date": "2026-10-31",
   "notes": [
-    "Paar-Finder rechnet ehrlich: spielt das letzte Jahr mit deinem Betrag, ganzen Stück und Gebühren nach",
-    "Paare, bei denen die Stücke zu grob sind oder Umschichten nichts gebracht hätte, werden ausgeblendet",
-    "Neu pro Paar: Umschichtungen im Jahr und wie viel Prozent ein Stück vom Depot ausmacht"
+    "Neu: Signale – Kauf-Ideen von Claude mit Ziel, Stop-Loss und spätestem Verkaufsdatum",
+    "Die App meldet sich, wenn du eine gekaufte Signal-Aktie verkaufen solltest",
+    "Ehrliche Bilanz: Trefferquote aller Signale im Vergleich zum Welt-ETF"
   ]
 }
