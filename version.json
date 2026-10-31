@@ -1,0 +1,10 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0",
+  "file": "Ernte-1.0.apk",
+  "sha256": "adf4c900c3e5de4845a6643067eff65605f08c5f5fffd36ab977fe439260ae46",
+  "date": "2026-10-31",
+  "notes": [
+    "Erste Version: Depot mit Live-Kursen, Sparplan-Aufteilung, Claude-Analyse, Labor und Benachrichtigungen"
+  ]
+}
