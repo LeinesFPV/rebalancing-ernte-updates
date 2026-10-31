@@ -1,12 +1,12 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "file": "Ernte-1.2.apk",
-  "sha256": "8b6786642c7d8d36c32cc2b5f45b52f3920969d703c0acb6fefd88003f66eee8",
+  "versionCode": 4,
+  "versionName": "1.3",
+  "file": "Ernte-1.3.apk",
+  "sha256": "81be3db7b2a54b41b1bdaa189deb125b8c44462fa9152eec26645b8400417755",
   "date": "2026-10-31",
   "notes": [
-    "Paar-Finder: rechnet 19 günstige Aktien mit echten Kursen gegeneinander durch",
-    "Für jedes Paar Ernte in Prozent und Euro, größter Absturz und Risiko-Stufe",
-    "Filter Ruhig / Mittel / Wild"
+    "Paar-Finder kennt jetzt 42 Aktien, auch SAP, Siemens, Allianz, Microsoft, Apple, Nvidia und mehr",
+    "Teure Aktien erscheinen automatisch, sobald dein Betrag für ganze Stück reicht",
+    "Eigene Aktien per Name oder ISIN dazunehmen"
   ]
 }

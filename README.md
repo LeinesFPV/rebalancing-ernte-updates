@@ -2,14 +2,14 @@
 
 Hier liegen nur die fertigen Versionen der App Rebalancing-Ernte. Die App schaut einmal am Tag in `version.json` nach, ob es etwas Neues gibt.
 
-**Aktuelle Version: 1.2** (2026-10-31)
+**Aktuelle Version: 1.3** (2026-10-31)
 
-[Ernte-1.2.apk herunterladen](https://github.com/LeinesFPV/rebalancing-ernte-updates/raw/main/Ernte-1.2.apk)
+[Ernte-1.3.apk herunterladen](https://github.com/LeinesFPV/rebalancing-ernte-updates/raw/main/Ernte-1.3.apk)
 
 ## Neu in dieser Version
-- Paar-Finder: rechnet 19 günstige Aktien mit echten Kursen gegeneinander durch
-- Für jedes Paar Ernte in Prozent und Euro, größter Absturz und Risiko-Stufe
-- Filter Ruhig / Mittel / Wild
+- Paar-Finder kennt jetzt 42 Aktien, auch SAP, Siemens, Allianz, Microsoft, Apple, Nvidia und mehr
+- Teure Aktien erscheinen automatisch, sobald dein Betrag für ganze Stück reicht
+- Eigene Aktien per Name oder ISIN dazunehmen
 
 ## Installieren
 1. APK auf dem Handy herunterladen und öffnen.
@@ -18,4 +18,4 @@ Hier liegen nur die fertigen Versionen der App Rebalancing-Ernte. Die App schaut
 
 Ältere Versionen liegen im Ordner [alte-versionen](alte-versionen).
 
-SHA-256: `8b6786642c7d8d36c32cc2b5f45b52f3920969d703c0acb6fefd88003f66eee8`
+SHA-256: `81be3db7b2a54b41b1bdaa189deb125b8c44462fa9152eec26645b8400417755`
