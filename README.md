@@ -2,14 +2,14 @@
 
 Hier liegen nur die fertigen Versionen der App Rebalancing-Ernte. Die App schaut einmal am Tag in `version.json` nach, ob es etwas Neues gibt.
 
-**Aktuelle Version: 1.3** (2026-10-31)
+**Aktuelle Version: 1.4** (2026-10-31)
 
-[Ernte-1.3.apk herunterladen](https://github.com/LeinesFPV/rebalancing-ernte-updates/raw/main/Ernte-1.3.apk)
+[Ernte-1.4.apk herunterladen](https://github.com/LeinesFPV/rebalancing-ernte-updates/raw/main/Ernte-1.4.apk)
 
 ## Neu in dieser Version
-- Paar-Finder kennt jetzt 42 Aktien, auch SAP, Siemens, Allianz, Microsoft, Apple, Nvidia und mehr
-- Teure Aktien erscheinen automatisch, sobald dein Betrag für ganze Stück reicht
-- Eigene Aktien per Name oder ISIN dazunehmen
+- Paar-Finder rechnet ehrlich: spielt das letzte Jahr mit deinem Betrag, ganzen Stück und Gebühren nach
+- Paare, bei denen die Stücke zu grob sind oder Umschichten nichts gebracht hätte, werden ausgeblendet
+- Neu pro Paar: Umschichtungen im Jahr und wie viel Prozent ein Stück vom Depot ausmacht
 
 ## Installieren
 1. APK auf dem Handy herunterladen und öffnen.
@@ -18,4 +18,4 @@ Hier liegen nur die fertigen Versionen der App Rebalancing-Ernte. Die App schaut
 
 Ältere Versionen liegen im Ordner [alte-versionen](alte-versionen).
 
-SHA-256: `81be3db7b2a54b41b1bdaa189deb125b8c44462fa9152eec26645b8400417755`
+SHA-256: `fbcf0153b98264d8a7a3748ff1f5a7b08a2d136273c76824cde7fa6716b4c824`

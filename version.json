@@ -1,12 +1,12 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
-  "file": "Ernte-1.3.apk",
-  "sha256": "81be3db7b2a54b41b1bdaa189deb125b8c44462fa9152eec26645b8400417755",
+  "versionCode": 5,
+  "versionName": "1.4",
+  "file": "Ernte-1.4.apk",
+  "sha256": "fbcf0153b98264d8a7a3748ff1f5a7b08a2d136273c76824cde7fa6716b4c824",
   "date": "2026-10-31",
   "notes": [
-    "Paar-Finder kennt jetzt 42 Aktien, auch SAP, Siemens, Allianz, Microsoft, Apple, Nvidia und mehr",
-    "Teure Aktien erscheinen automatisch, sobald dein Betrag für ganze Stück reicht",
-    "Eigene Aktien per Name oder ISIN dazunehmen"
+    "Paar-Finder rechnet ehrlich: spielt das letzte Jahr mit deinem Betrag, ganzen Stück und Gebühren nach",
+    "Paare, bei denen die Stücke zu grob sind oder Umschichten nichts gebracht hätte, werden ausgeblendet",
+    "Neu pro Paar: Umschichtungen im Jahr und wie viel Prozent ein Stück vom Depot ausmacht"
   ]
 }
