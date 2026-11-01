@@ -2,15 +2,15 @@
 
 Hier liegen nur die fertigen Versionen der App Rebalancing-Ernte. Die App schaut einmal am Tag in `version.json` nach, ob es etwas Neues gibt.
 
-**Aktuelle Version: 1.6** (2026-11-01)
+**Aktuelle Version: 1.7** (2026-11-01)
 
-[Ernte-1.6.apk herunterladen](https://github.com/LeinesFPV/rebalancing-ernte-updates/raw/main/Ernte-1.6.apk)
+[Ernte-1.7.apk herunterladen](https://github.com/LeinesFPV/rebalancing-ernte-updates/raw/main/Ernte-1.7.apk)
 
 ## Neu in dieser Version
-- Menü unten ist jetzt immer da
-- Großer Schalter Einfach / Details oben im Depot
-- Neu unter Signale: Top 10 in vier Kategorien – Schnell, Trend, Langfristig, Dividende
-- Aus der Rangliste beobachten oder als gekauft eintragen
+- Aktie antippen: Chart mit 1T, 1W, 1M, 3M, 1J, 5J – Finger aufs Diagramm zeigt Kurs und Zeitpunkt
+- Erklärung: warum die Aktie auf der Liste ist, was passieren muss, damit sie steigt, und was dagegen spricht
+- Die App ist jetzt privat: neue Nutzer müssen freigeschaltet werden
+- Für den Betreiber: Nutzer verwalten unter Einstellungen
 
 ## Installieren
 1. APK auf dem Handy herunterladen und öffnen.
@@ -19,4 +19,4 @@ Hier liegen nur die fertigen Versionen der App Rebalancing-Ernte. Die App schaut
 
 Ältere Versionen liegen im Ordner [alte-versionen](alte-versionen).
 
-SHA-256: `43c82019962517850fdcd5dd7914fcbf23402d54f4b12dd15979eccb3b0c69f9`
+SHA-256: `0d6d317cc66ab0ba38e6343eca4a5e8840b0feda7dd4b14c4f05d1c37cdda152`
