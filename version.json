@@ -1,12 +1,13 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "file": "Ernte-1.5.apk",
-  "sha256": "fc692fb00cf16ab2fc7a99e2410e82decee2f68257b93fc81ba616fad8e6fb44",
-  "date": "2026-10-31",
+  "versionCode": 7,
+  "versionName": "1.6",
+  "file": "Ernte-1.6.apk",
+  "sha256": "43c82019962517850fdcd5dd7914fcbf23402d54f4b12dd15979eccb3b0c69f9",
+  "date": "2026-11-01",
   "notes": [
-    "Neu: Signale – Kauf-Ideen von Claude mit Ziel, Stop-Loss und spätestem Verkaufsdatum",
-    "Die App meldet sich, wenn du eine gekaufte Signal-Aktie verkaufen solltest",
-    "Ehrliche Bilanz: Trefferquote aller Signale im Vergleich zum Welt-ETF"
+    "Menü unten ist jetzt immer da",
+    "Großer Schalter Einfach / Details oben im Depot",
+    "Neu unter Signale: Top 10 in vier Kategorien – Schnell, Trend, Langfristig, Dividende",
+    "Aus der Rangliste beobachten oder als gekauft eintragen"
   ]
 }
