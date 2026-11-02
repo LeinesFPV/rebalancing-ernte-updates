@@ -1,11 +1,10 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "file": "Ernte-1.8.apk",
-  "sha256": "218c383d0de278d2e33ac1c892c9d1d6ab87c0c9d132aea92338da566e757846",
+  "versionCode": 10,
+  "versionName": "1.9",
+  "file": "Ernte-1.9.apk",
+  "sha256": "1b72e2591606ae47987341064086994d8bb61c0e83fe447399d472f92d29fb3e",
   "date": "2026-11-02",
   "notes": [
-    "Bei Signalen und Top-10-Listen steht jetzt Datum und Uhrzeit der Einschätzung",
-    "Neuer Knopf „Markt neu analysieren“ – Claude ist in spätestens 30 Minuten fertig"
+    "WKN und ISIN bei jeder Signal-Aktie antippen und kopieren – direkt in die Scalable-Suche einfügen"
   ]
 }
