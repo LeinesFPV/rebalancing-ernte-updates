@@ -2,12 +2,13 @@
 
 Hier liegen nur die fertigen Versionen der App Rebalancing-Ernte. Die App schaut einmal am Tag in `version.json` nach, ob es etwas Neues gibt.
 
-**Aktuelle Version: 1.9** (2026-11-02)
+**Aktuelle Version: 2.0** (2026-11-02)
 
-[Ernte-1.9.apk herunterladen](https://github.com/LeinesFPV/rebalancing-ernte-updates/raw/main/Ernte-1.9.apk)
+[Ernte-2.0.apk herunterladen](https://github.com/LeinesFPV/rebalancing-ernte-updates/raw/main/Ernte-2.0.apk)
 
 ## Neu in dieser Version
-- WKN und ISIN bei jeder Signal-Aktie antippen und kopieren – direkt in die Scalable-Suche einfügen
+- Live-Kurse bei den Signalen und in den Top 10 – alle 20 Sekunden aktualisiert, mit Tagesveränderung
+- Grünes Aufblinken bei steigendem, rotes bei fallendem Kurs
 
 ## Installieren
 1. APK auf dem Handy herunterladen und öffnen.
@@ -16,4 +17,4 @@ Hier liegen nur die fertigen Versionen der App Rebalancing-Ernte. Die App schaut
 
 Ältere Versionen liegen im Ordner [alte-versionen](alte-versionen).
 
-SHA-256: `1b72e2591606ae47987341064086994d8bb61c0e83fe447399d472f92d29fb3e`
+SHA-256: `6d4516813c6c393011df0171b29868bfe08dff60dbc4f45afe1d72298907f4ff`

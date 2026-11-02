@@ -1,10 +1,11 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "file": "Ernte-1.9.apk",
-  "sha256": "1b72e2591606ae47987341064086994d8bb61c0e83fe447399d472f92d29fb3e",
+  "versionCode": 11,
+  "versionName": "2.0",
+  "file": "Ernte-2.0.apk",
+  "sha256": "6d4516813c6c393011df0171b29868bfe08dff60dbc4f45afe1d72298907f4ff",
   "date": "2026-11-02",
   "notes": [
-    "WKN und ISIN bei jeder Signal-Aktie antippen und kopieren – direkt in die Scalable-Suche einfügen"
+    "Live-Kurse bei den Signalen und in den Top 10 – alle 20 Sekunden aktualisiert, mit Tagesveränderung",
+    "Grünes Aufblinken bei steigendem, rotes bei fallendem Kurs"
   ]
 }
