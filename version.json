@@ -1,11 +1,12 @@
 {
-  "versionCode": 11,
-  "versionName": "2.0",
-  "file": "Ernte-2.0.apk",
-  "sha256": "6d4516813c6c393011df0171b29868bfe08dff60dbc4f45afe1d72298907f4ff",
-  "date": "2026-11-02",
+  "versionCode": 12,
+  "versionName": "2.1",
+  "file": "Ernte-2.1.apk",
+  "sha256": "e7c185e69a1d1bde1febdba988a9934382b37b57b3b1923fd9e4934e8d54f933",
+  "date": "2026-11-06",
   "notes": [
-    "Live-Kurse bei den Signalen und in den Top 10 – alle 20 Sekunden aktualisiert, mit Tagesveränderung",
-    "Grünes Aufblinken bei steigendem, rotes bei fallendem Kurs"
+    "Mehrere Paare gleichzeitig: oben im Depot zwischen Paaren wechseln, mit „+ Paar“ ein neues anlegen",
+    "Orangener Punkt am Paar zeigt, wo umgeschichtet werden sollte – Benachrichtigungen für alle Paare",
+    "Bei Signalen klarer Status „Nicht gekauft · nur beobachtet“, Knopf heißt jetzt „Als gekauft eintragen“"
   ]
 }

@@ -2,13 +2,14 @@
 
 Hier liegen nur die fertigen Versionen der App Rebalancing-Ernte. Die App schaut einmal am Tag in `version.json` nach, ob es etwas Neues gibt.
 
-**Aktuelle Version: 2.0** (2026-11-02)
+**Aktuelle Version: 2.1** (2026-11-06)
 
-[Ernte-2.0.apk herunterladen](https://github.com/LeinesFPV/rebalancing-ernte-updates/raw/main/Ernte-2.0.apk)
+[Ernte-2.1.apk herunterladen](https://github.com/LeinesFPV/rebalancing-ernte-updates/raw/main/Ernte-2.1.apk)
 
 ## Neu in dieser Version
-- Live-Kurse bei den Signalen und in den Top 10 – alle 20 Sekunden aktualisiert, mit Tagesveränderung
-- Grünes Aufblinken bei steigendem, rotes bei fallendem Kurs
+- Mehrere Paare gleichzeitig: oben im Depot zwischen Paaren wechseln, mit „+ Paar“ ein neues anlegen
+- Orangener Punkt am Paar zeigt, wo umgeschichtet werden sollte – Benachrichtigungen für alle Paare
+- Bei Signalen klarer Status „Nicht gekauft · nur beobachtet“, Knopf heißt jetzt „Als gekauft eintragen“
 
 ## Installieren
 1. APK auf dem Handy herunterladen und öffnen.
@@ -17,4 +18,4 @@ Hier liegen nur die fertigen Versionen der App Rebalancing-Ernte. Die App schaut
 
 Ältere Versionen liegen im Ordner [alte-versionen](alte-versionen).
 
-SHA-256: `6d4516813c6c393011df0171b29868bfe08dff60dbc4f45afe1d72298907f4ff`
+SHA-256: `e7c185e69a1d1bde1febdba988a9934382b37b57b3b1923fd9e4934e8d54f933`
