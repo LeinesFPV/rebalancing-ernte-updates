@@ -1,12 +1,11 @@
 {
-  "versionCode": 12,
-  "versionName": "2.1",
-  "file": "Ernte-2.1.apk",
-  "sha256": "e7c185e69a1d1bde1febdba988a9934382b37b57b3b1923fd9e4934e8d54f933",
-  "date": "2026-11-06",
+  "versionCode": 13,
+  "versionName": "2.2",
+  "file": "Ernte-2.2.apk",
+  "sha256": "18d14bc1a5952d0f04be48d5ecb91b43c0c587d24a8f5c2af5b2652730b49862",
+  "date": "2026-11-18",
   "notes": [
-    "Mehrere Paare gleichzeitig: oben im Depot zwischen Paaren wechseln, mit „+ Paar“ ein neues anlegen",
-    "Orangener Punkt am Paar zeigt, wo umgeschichtet werden sollte – Benachrichtigungen für alle Paare",
-    "Bei Signalen klarer Status „Nicht gekauft · nur beobachtet“, Knopf heißt jetzt „Als gekauft eintragen“"
+    "Neuer Speicher: Das alte Angelbuch-Projekt wurde gelöscht, die Ernte hat jetzt ihren eigenen Speicher. Einmal neu anmelden – deine Signale werden automatisch übernommen.",
+    "Paar-Finder „Oft handeln“: Paare, bei denen man oft umschichten muss, mit kleinerer Schwelle (3 Punkte); Gebühren sind eingerechnet."
   ]
 }

@@ -2,14 +2,15 @@
 
 Hier liegen nur die fertigen Versionen der App Rebalancing-Ernte. Die App schaut einmal am Tag in `version.json` nach, ob es etwas Neues gibt.
 
-**Aktuelle Version: 2.1** (2026-11-06)
+**Aktuelle Version: 2.2** (2026-11-18)
 
-[Ernte-2.1.apk herunterladen](https://github.com/LeinesFPV/rebalancing-ernte-updates/raw/main/Ernte-2.1.apk)
+> **Wichtig:** Ab 2.2 neues Konto: Anmelden mit Name lorenz und deinem bisherigen Passwort.
+
+[Ernte-2.2.apk herunterladen](https://github.com/LeinesFPV/rebalancing-ernte-updates/raw/main/Ernte-2.2.apk)
 
 ## Neu in dieser Version
-- Mehrere Paare gleichzeitig: oben im Depot zwischen Paaren wechseln, mit „+ Paar“ ein neues anlegen
-- Orangener Punkt am Paar zeigt, wo umgeschichtet werden sollte – Benachrichtigungen für alle Paare
-- Bei Signalen klarer Status „Nicht gekauft · nur beobachtet“, Knopf heißt jetzt „Als gekauft eintragen“
+- Neuer Speicher: Das alte Angelbuch-Projekt wurde gelöscht, die Ernte hat jetzt ihren eigenen Speicher. Einmal neu anmelden – deine Signale werden automatisch übernommen.
+- Paar-Finder „Oft handeln“: Paare, bei denen man oft umschichten muss, mit kleinerer Schwelle (3 Punkte); Gebühren sind eingerechnet.
 
 ## Installieren
 1. APK auf dem Handy herunterladen und öffnen.
@@ -18,4 +19,4 @@ Hier liegen nur die fertigen Versionen der App Rebalancing-Ernte. Die App schaut
 
 Ältere Versionen liegen im Ordner [alte-versionen](alte-versionen).
 
-SHA-256: `e7c185e69a1d1bde1febdba988a9934382b37b57b3b1923fd9e4934e8d54f933`
+SHA-256: `18d14bc1a5952d0f04be48d5ecb91b43c0c587d24a8f5c2af5b2652730b49862`
